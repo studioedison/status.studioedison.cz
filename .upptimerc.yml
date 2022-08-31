@@ -42,5 +42,62 @@ status-website:
 
 robotsText: "User-agent: * \n Disallow: /"
 
+i18n:
+  activeIncidents: Aktivní incidenty
+  allSystemsOperational: Všechny systémy běží
+  incidentReport: "Hlášení o incidentu #$NUMBER →"
+  activeIncidentSummary: Otevřeno $DATE s $POSTS příspěvky
+  incidentTitle: Detaily incidentu $NUMBER
+  incidentDetails: Detaily incidentu
+  incidentFixed: Opraveno
+  incidentOngoing: Probíhající
+  incidentOpenedAt: Otevřeno
+  incidentClosedAt: Otevřeno
+  incidentViewOnGitHub: Zobrazit a sledovat na GitHubu
+  incidentCommentSummary: Přidal $AUTHOR $DATA
+  incidentBack: ← Zpět na seznam incidentu
+  pastIncidents: Předchozí incidenty
+  pastIncidentsResolved: Vyřešeno v $MINUTES minutách s $POSTS příspěvky
+  liveStatus: Aktuální stav
+  overallUptime: "Celkový uptime: $UPTIME"
+  overallUptimeTitle: Celkový uptime
+  averageResponseTime: "Průměrná doba odpovědi: $TIMEms"
+  averageResponseTimeTitle: Průměrná odpověď
+  sevelDayResponseTime: Průměrná doba odpovědi za 7 dní
+  responseTimeMs: Doba odpovědi (ms)
+  up: Běží
+  down: Neběží
+  degraded: Degradováno
+  ms: ms
+  loading: Načítání
+  navGitHub: GitHub
+  footer: Tato stránka je [open source]($REPO), poháněná [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rychlostní limit překročen
+  rateLimitExceededIntro: Překročilo jste počet požadavků, které můžete za hodinu udělat, takže než tuto stránku znovu načtete, budete muset počkat, nebo můžete přidat GitHub Personal Access Token abyste mohli tuto stránku používat nadále.
+  rateLimitExceededWhatDoesErrorMean: Co tato chyba znamená?
+  rateLimitExceededErrorMeaning: Tato stránka používá GitHub API pro přístup k real-time údajům o dostupnosti našich stránek. GitHub povoluje jedné IP adrese 60 požadavků za hodinu, což jste překročili..
+  rateLimitExceededErrorHowCanFix: Jak to mohu opravit?
+  rateLimitExceededErrorFix: Můžete hodinu počkat a limit vaší IP adresy bude obnoven, nebo můžete přidat svůj GitHub Personal Access Token, který vám povolí dalších 5000 požadavků na hodinu.
+  rateLimitExceededGeneratePAT: Zjistěte, jak vygenerovat Personal Access Token
+  rateLimitExceededHasSet: YMáte nastavený Personal Access Token.
+  rateLimitExceededRemoveToken: Odstranit token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Zkopírujte a vložte svůj Personal Access Token
+  rateLimitExceededSaveToken: Uložit token
+  errorTitle: Došlo k chybě
+  errorIntro: Při načítání nejnovějších detailů o statusu došlo k chybě.
+  errorText: Za chvíli to můžete zkusit znovu.
+  errorHome: Jít domů
+  pastScheduledMaintenance: Překročení plánovaného času údržby
+  scheduledMaintenance: Plánovaná údržba
+  scheduledMaintenanceSummaryStarted: Začala $DATE a potrvá $DURATION minut
+  scheduledMaintenanceSummaryStarts: Začne $DATE a potrvá $DURATION minut
+  startedAt: Začala
+  startsAt: Začne
+  duration: Trvání
+  durationMin: $DURATION minut
+  incidentCompleted: Dokončeno
+  incidentScheduled: Naplánováno
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
