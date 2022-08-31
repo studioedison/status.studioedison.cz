@@ -14,7 +14,7 @@ sites:
   - name: Rádio Edison
     url: https://radio.studioedison.tk
   - name: Poslech Rádia Edison
-    url: https://radio.studioedison.tk/listen/radio_edison/radio.mp3
+    url: https://radio.studioedison.tk/listen/radio_edison/
   - name: Televize Edison
     url: https://xibo.studioedison.tk
   - name: NGINX Proxy Manager
