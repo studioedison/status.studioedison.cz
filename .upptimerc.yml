@@ -1,31 +1,46 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: studioedison # Your GitHub organization or username, where this repository lives
+repo: status.studioedison.tk # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Přihlašování
+    url: https://auth.studioedison.tk
+  - name: Úkoly (Vikunja)
+    url: https://vikunja.studioedison.tk
+  - name: Penpot
+    url: https://penpot.studioedison.tk
+  - name: Wiki Studia Edison
+    url: https://wiki.studioedison.tk
+  - name: Rádio Edison
+    url: https://radio.studioedison.tk
+  - name: Poslech Rádia Edison
+    url: https://radio.studioedison.tk/listen/radio_edison/radio.mp3
+  - name: Televize Edison
+    url: https://xibo.studioedison.tk
+  - name: NGINX Proxy Manager
+    url: https://npm.studioedison.tk
+  - name: Portainer
+    url: https://portainer.studioedison.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.studioedison.tk
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://interni.studioedison.tk/assets/img/edlogob.png
+  name: Status Interních služeb Studia Edison
+  favicon: https://interni.studioedison.tk/assets/img/edlogob.png
+  introTitle: "Zkušební provoz"
+  introMessage: Pozor, Interní služby Studia Edison jsou zatím ve zkušebním provozu
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Interní služby Studia Edison
+      href: https://interni.studioedison.tk
+    - title: Studio Edison
+      href: https://studioedison.cz
+
+robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
