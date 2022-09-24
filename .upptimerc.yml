@@ -6,21 +6,21 @@ sites:
   - name: Přihlašování
     url: https://auth.studioedison.tk
   - name: Úkoly (Vikunja)
-    url: https://vikunja.studioedison.tk
+    url: https://vikunja.studioedison.cz
   - name: Penpot
-    url: https://penpot.studioedison.tk
+    url: https://penpot.studioedison.cz
   - name: Wiki Studia Edison
-    url: https://wiki.studioedison.tk
+    url: https://wiki.studioedison.cz
   - name: Rádio Edison
-    url: https://radio.studioedison.tk
+    url: https://radio.studioedison.cz
   - name: Poslech Rádia Edison
-    url: https://radio.studioedison.tk/listen/radio_edison/
+    url: https://radio.studioedison.cz/listen/radio_edison/
   - name: Televize Edison
-    url: https://xibo.studioedison.tk
+    url: https://xibo.studioedison.cz
   - name: NGINX Proxy Manager
-    url: https://npm.studioedison.tk
+    url: https://npm.studioedison.cz
   - name: Portainer
-    url: https://portainer.studioedison.tk
+    url: https://portainer.studioedison.cz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
