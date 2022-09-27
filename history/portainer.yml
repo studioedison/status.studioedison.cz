@@ -1,7 +1,7 @@
 url: https://portainer.studioedison.cz
-status: up
-code: 200
-responseTime: 565
-lastUpdated: 2022-09-26T23:18:30.660Z
+status: down
+code: 521
+responseTime: 349
+lastUpdated: 2022-09-27T18:53:11.508Z
 startTime: Wed Aug 31 2022 13:39:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
