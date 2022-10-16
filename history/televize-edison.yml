@@ -1,7 +1,7 @@
 url: https://xibo.studioedison.cz
-status: up
-code: 200
-responseTime: 4085
-lastUpdated: 2022-10-15T23:18:38.434Z
+status: down
+code: 502
+responseTime: 7165
+lastUpdated: 2022-10-16T15:39:40.240Z
 startTime: Wed Aug 31 2022 13:39:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
