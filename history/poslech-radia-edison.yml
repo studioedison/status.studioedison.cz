@@ -1,7 +1,7 @@
 url: https://radio.studioedison.cz/listen/radio_edison/
-status: up
-code: 200
-responseTime: 228
-lastUpdated: 2022-10-28T23:17:12.191Z
+status: down
+code: 521
+responseTime: 158
+lastUpdated: 2022-10-29T07:24:18.597Z
 startTime: Wed Aug 31 2022 13:39:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
