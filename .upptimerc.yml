@@ -9,8 +9,6 @@ sites:
     url: https://static.studioedison.cz
   - name: Přihlašování
     url: https://sso.studioedison.cz
-  - name: Databáze fotek
-    url: https://fotky.studioedison.cz
   - name: Penpot
     url: https://penpot.studioedison.cz
   - name: Portainer
