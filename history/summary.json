@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/studioedison.cz.ico",
     "slug": "webove-stranky",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.46%",
-    "uptimeYear": "97.98%",
-    "time": 1662,
-    "timeDay": 1375,
-    "timeWeek": 1371,
-    "timeMonth": 1672,
-    "timeYear": 1662,
+    "uptimeYear": "98.01%",
+    "time": 1653,
+    "timeDay": 1051,
+    "timeWeek": 1349,
+    "timeMonth": 1674,
+    "timeYear": 1653,
     "dailyMinutesDown": {
       "2023-09-03": 959,
       "2023-09-02": 155,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 585,
-    "timeDay": 673,
-    "timeWeek": 678,
-    "timeMonth": 601,
-    "timeYear": 585,
+    "time": 587,
+    "timeDay": 699,
+    "timeWeek": 655,
+    "timeMonth": 604,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2023-09-03": 30
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 889,
-    "timeDay": 917,
-    "timeWeek": 871,
-    "timeMonth": 812,
-    "timeYear": 889,
+    "time": 890,
+    "timeDay": 970,
+    "timeWeek": 862,
+    "timeMonth": 813,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2023-09-03": 30
     }
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 1033,
-    "timeDay": 1064,
-    "timeWeek": 1066,
-    "timeMonth": 1010,
-    "timeYear": 1033,
+    "time": 1034,
+    "timeDay": 1122,
+    "timeWeek": 1053,
+    "timeMonth": 1009,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2023-09-03": 30
     }
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 590,
-    "timeDay": 553,
-    "timeWeek": 523,
-    "timeMonth": 535,
-    "timeYear": 590,
+    "time": 588,
+    "timeDay": 438,
+    "timeWeek": 488,
+    "timeMonth": 528,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2023-09-03": 30
     }
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 574,
-    "timeDay": 584,
-    "timeWeek": 534,
-    "timeMonth": 506,
-    "timeYear": 574,
+    "time": 573,
+    "timeDay": 485,
+    "timeWeek": 528,
+    "timeMonth": 503,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2023-09-03": 30
     }
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 701,
-    "timeDay": 737,
-    "timeWeek": 718,
-    "timeMonth": 653,
-    "timeYear": 701,
+    "time": 702,
+    "timeDay": 742,
+    "timeWeek": 696,
+    "timeMonth": 654,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2023-09-03": 30
     }
@@ -148,16 +148,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xibo.studioedison.cz.ico",
     "slug": "xibo",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "99.84%",
-    "time": 1397,
-    "timeDay": 1157,
-    "timeWeek": 1164,
-    "timeMonth": 1235,
-    "timeYear": 1397,
+    "uptimeYear": "99.85%",
+    "time": 1396,
+    "timeDay": 1305,
+    "timeWeek": 1156,
+    "timeMonth": 1225,
+    "timeYear": 1396,
     "dailyMinutesDown": {
       "2023-09-03": 125
     }
