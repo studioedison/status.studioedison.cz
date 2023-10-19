@@ -27,10 +27,10 @@
     "url": "https://static.studioedison.cz",
     "icon": "https://icons.duckduckgo.com/ip3/static.studioedison.cz.ico",
     "slug": "staticky-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "87.84%",
-    "uptimeWeek": "98.11%",
+    "uptimeDay": "87.72%",
+    "uptimeWeek": "98.09%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.81%",
     "time": 1040,
@@ -39,7 +39,7 @@
     "timeMonth": 1801,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2023-10-19": 175,
+      "2023-10-19": 177,
       "2023-10-15": 16,
       "2023-09-03": 30
     }
@@ -50,18 +50,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.studioedison.cz.ico",
     "slug": "prihlasovani",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "88.00%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.81%",
+    "uptimeDay": "87.20%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.81%",
     "time": 1124,
     "timeDay": 6730,
     "timeWeek": 2984,
     "timeMonth": 1539,
     "timeYear": 1124,
     "dailyMinutesDown": {
-      "2023-10-19": 172,
+      "2023-10-19": 184,
       "2023-09-03": 30
     }
   },
