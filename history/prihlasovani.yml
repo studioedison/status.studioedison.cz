@@ -1,7 +1,7 @@
 url: https://sso.studioedison.cz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-20T00:38:07.263Z
+status: up
+code: 200
+responseTime: 1537
+lastUpdated: 2023-10-20T01:35:56.086Z
 startTime: 2023-07-31T14:43:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
